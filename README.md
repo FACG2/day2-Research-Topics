@@ -34,8 +34,8 @@ The cocky answer is to say “make your tech lead enter it”.
 
 In order to
 `<achieve some goal>`  `<a system or persona>` needs to <some action>.
-<br />
-Example: In order to split the collection curve wizard story, the tech lead needs to do some detailed design. (Just enough to split the story.) <br />
+<br /><br />
+Example: In order to split the collection curve wizard story, the tech lead needs to do some detailed design. (Just enough to split the story.) <br /><br />
 Example: In order to estimate the “user connection report” story, the tech lead and PO need to research capabilities of MSTR and have some conversations with the PO. (Just enough to estimate the story.)
 I like to start the name or title with “SPIKE:” to make them stand out in the **ALM**(Application Life-cycle Management) tool. Using a tag or a label could work as well.
 TIME-BOX YOUR SPIKES
