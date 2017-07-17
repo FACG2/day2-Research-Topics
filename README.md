@@ -37,6 +37,7 @@ In order to
 <br /><br />
 Example: In order to split the collection curve wizard story, the tech lead needs to do some detailed design. (Just enough to split the story.) <br /><br />
 Example: In order to estimate the “user connection report” story, the tech lead and PO need to research capabilities of MSTR and have some conversations with the PO. (Just enough to estimate the story.)
+<br />
 I like to start the name or title with “SPIKE:” to make them stand out in the **ALM**(Application Life-cycle Management) tool. Using a tag or a label could work as well.
 TIME-BOX YOUR SPIKES
 Teams should agree that every spike is, say, never more than 1 day of research. (For some teams this might be, say, 3 days, if that’s the common situation.) At the end of the time-box, you have to report out your findings. That might result in another spike, but time-box the experiments. If you weren’t able to answer the question before time runs out, you must still report the results to the team and decide what to do next. What to do next might be to define another spike.
