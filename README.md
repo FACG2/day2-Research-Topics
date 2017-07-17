@@ -6,7 +6,8 @@ Technical spike is the investigation to drive out risk and uncertainty. It comes
   **1. Reduce the risk of a technical problem.**
 
   **2. Increase the reliability of a user story’s estimate.**
-
+  
+>Extreme programming (XP) ?is a software development methodology which is intended to improve software quality and responsiveness to changing customer requirements.
 
 Sometimes a user story is generated that cannot be well estimated until the development team does some actual work to resolve a technical question or a design problem. The solution is to create a “spike,” which is some work whose purpose is to provide the answer or solution.
 
@@ -40,3 +41,10 @@ TIME-BOX YOUR SPIKES
 Teams should agree that every spike is, say, never more than 1 day of research. (For some teams this might be, say, 3 days, if that’s the common situation.) At the end of the time-box, you have to report out your findings. That might result in another spike, but time-box the experiments. If you weren’t able to answer the question before time runs out, you must still report the results to the team and decide what to do next. What to do next might be to define another spike.
 You might say “I think there’s a bug in the app server… there’s no way I can hear back from their support within the time-box.” The timebox is effort, not calendar time. So, the spike can be about recreating the problem and providing enough info for the support group to look into it.
 It’s also best if a spike has one very clear question to answer. Not a bunch of questions or an ambiguous statement of stuff you need to look into. Therefore, split your spikes just as you would large user stories.
+
+#### Give an example of how a spike could have helped with last week's projects.
+
+ http://www.extremeprogramming.org/rules/spike.html
+
+
+ http://www.extremeprogramming.org/map/project.html
