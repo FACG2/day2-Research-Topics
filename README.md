@@ -33,7 +33,7 @@ The cocky answer is to say “make your tech lead enter it”.
 ** A more serious answer would be that the technical story format would be good:**
 
 In order to
-`<achieve some goal>`  `<a system or persona>` needs to <some action>.
+`<achieve some goal>`  `<a system or persona>` needs to `<some action>`.
 <br /><br />
 Example: In order to split the collection curve wizard story, the tech lead needs to do some detailed design. (Just enough to split the story.) <br /><br />
 Example: In order to estimate the “user connection report” story, the tech lead and PO need to research capabilities of MSTR and have some conversations with the PO. (Just enough to estimate the story.)
